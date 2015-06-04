@@ -4,8 +4,8 @@ Basic example of Apache Mesos on CoreOS and Digital Ocean, using [Terraform](htt
 
 #### Usage
 
-  terraform plan
-  terraform apply
+    terraform plan
+    terraform apply
 
 The pulling of Docker containers for Mesos on CoreOS can take a few minutes.
 
